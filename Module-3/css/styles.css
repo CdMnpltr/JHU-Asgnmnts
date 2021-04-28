@@ -19,18 +19,14 @@ body {
 .navbar-toggle {
   margin-top: 25px;
 }
-#nav-items {
-  text-align: center;
-  font-size: 21px;
-}
 #nav-items a {
   color: #ff6e40;
+  font-size: 21px;
 }
 #nav-items a:hover {
   background: #f5f0e1;
 }
 h1 {
- text-align: center;
  color: #ff6e40;
  margin-top: 0px;
 }
